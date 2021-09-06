@@ -42,6 +42,6 @@ vcsInfo:
 
 partOf: inventory
 
-connectsTo: "inv-mag-gray"
+connectsTo: ""
 
 runtime: spring
